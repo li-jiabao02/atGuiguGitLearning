@@ -1,4 +1,5 @@
 hello atguigu! hello git！22222
+
 hello atguigu! hello git! 333333 
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -16,7 +17,7 @@ hello atguigu! hello git! master test dylan
 hello atguigu! hello git!
 hello atguigu! hello git! hot-fix test1
 11111111111111111111111111111111111111 by hotfix
-22222222222222222222222222 by lhc
+22222222222222222222222222 by lhc(dylan)
 33333333333333333333333 by dongfang
 44444444444444444444444 by wyc6990906@hotmail.com2
 辟邪剑谱 果然厉害
